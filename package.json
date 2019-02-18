@@ -1,4 +1,11 @@
 {
+  "name": "Shin Kuroto Dan",
+  "description": "GOD",
+  "version": "0.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
