@@ -2,9 +2,9 @@
   "name": "Belt-san",
   "description": "JKT48 Blogger Discord BOT",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
